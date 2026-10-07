@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "Nexocrossplay.aternos.me",
+    "port":50492,
     "version": "1.20.1",
     "try-creative": false
   },
