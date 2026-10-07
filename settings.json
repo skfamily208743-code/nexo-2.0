@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "SoloCloudHosting1",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Nexocrossplay.aternos.me",
     "port":50492,
-    "version": "1.20.1",
+    "version": "1.26.3",
     "try-creative": false
   },
   "position": {
